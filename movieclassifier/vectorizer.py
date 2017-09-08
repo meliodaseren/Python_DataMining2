@@ -1,6 +1,3 @@
-# 將向量化的腳本也寫入硬碟
-# 要使用的時候　需要載入當下的工作環境之中
-
 from sklearn.feature_extraction.text import HashingVectorizer
 import re
 import os
